@@ -1,0 +1,8 @@
+D:\华工(2017.6.6)\packet_tools\install\bin\Debug\install.exe
+D:\华工(2017.6.6)\packet_tools\install\bin\Debug\install.pdb
+D:\华工(2017.6.6)\packet_tools\install\obj\Debug\ResolveAssemblyReference.cache
+D:\华工(2017.6.6)\packet_tools\install\obj\Debug\install.frmInstall.resources
+D:\华工(2017.6.6)\packet_tools\install\obj\Debug\install.Properties.Resources.resources
+D:\华工(2017.6.6)\packet_tools\install\obj\Debug\install.csproj.GenerateResource.Cache
+D:\华工(2017.6.6)\packet_tools\install\obj\Debug\install.exe
+D:\华工(2017.6.6)\packet_tools\install\obj\Debug\install.pdb

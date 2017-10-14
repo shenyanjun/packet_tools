@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartWorkingDirectory>D:\Documents\Visual Studio 2013\Projects\packet_tools\packet_tools\bin\Debug\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>
